@@ -1,0 +1,18 @@
+My soft skills:
+responsibility
+enthusiasm
+curiosity
+decisiveness
+sociability
+attentiveness
+My hard skills:
+Terminal
+Github
+SQL
+Devtools
+Postman
+Jmeter
+Fidler
+Charles
+Mobile testing
+Veb testing
